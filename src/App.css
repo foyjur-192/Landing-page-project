@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.background-color{
+  background-color: #0C373F;
+}
+
+.background-green{
+  background-color: #53BD95;
+}
+
+.background-allow{
+  background-color: #FECB32;
+}
+
+
+.text-color{
+  color: #FECB32;
+}
+.text-green{
+  color: #0C373F;
+}
+.text-green-light{
+  color: #53BD95;
+}
+
+.shadow{
+  box-shadow: -12px -12px 24px rgba(65, 65, 65, 0.9), 12px 12px 24px #000000;
+}
